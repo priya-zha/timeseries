@@ -74,7 +74,7 @@ streamlit run date.py
 - yfinance
 - Plotly
 - Scikit-learn
-- Pandas, NumPy
+- Pandas, NumPy, LSTM
 
 ---
 
